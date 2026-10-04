@@ -1,26 +1,7 @@
 # Clima — Previsão do Tempo
 
 App de clima responsivo com fundo preto fixo, feito com TanStack Start (React 19) e Tailwind CSS.
-Os dados vêm da API gratuita [Open-Meteo](https://open-meteo.com) — sem chave de API.
-
-## Rodar no Visual Studio Code
-
-1. Abra a pasta do projeto no VS Code (`Arquivo → Abrir Pasta`).
-2. Abra o terminal integrado (`Terminal → Novo Terminal`) e instale as dependências:
-
-```sh
-npm install
-```
-
-3. Inicie o servidor de desenvolvimento:
-
-```sh
-npm run dev
-```
-
-4. Abra `http://localhost:8080` no navegador.
-
-Você precisa ter o [Node.js 20+](https://nodejs.org) instalado (ou use `nvm install 20`).
+Os dados vêm da API gratuita 
 
 ## Comandos úteis
 
